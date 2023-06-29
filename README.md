@@ -1,7 +1,9 @@
 # C++ My Template
 
 ```cpp
-#include<bits/stdc++.h>
+#include<iostream>
+#include<math.h>
+#include<algorithm>
 
 #define ll long long
 #define pb push_back
